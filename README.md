@@ -422,9 +422,9 @@ Contém informações agrupadas por turma e disciplina de notas, possibilitando 
 ### Resultados Consolidados
 Apresenta uma tabela com informações da série, RA, disciplina, tipo de turma, média do primeiro semestre, média parcial do segundo semestre, média anual parcial, nota do último período, nota necessária nos próximos instrumentos para evitar recuperação semestral, nota necessária nos próximos instrumentos para evitar recuperação anual e a soma dos pesos dos instrumentos avaliativos até o momento (a soma dos pesos deve ser 100 no final do semestre).
 
-## [EM - Pesquisa Quantitativa - Sobre EM](https://lookerstudio.google.com/reporting/491481b7-ffb8-4d0a-8c9e-7ee9b1f4581a/page/p_5r58u8i54c)
+## [EM - Pesquisa Quantitativa - Sobre EM](https://lookerstudio.google.com/reporting/e670e41b-761d-40af-869a-40aa1dee35c7/page/p_5r58u8i54c)
 
-<iframe width="800" height="450" src="https://lookerstudio.google.com/embed/reporting/491481b7-ffb8-4d0a-8c9e-7ee9b1f4581a/page/p_5r58u8i54c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+<iframe width="800" height="450 src="https://lookerstudio.google.com/embed/reporting/e670e41b-761d-40af-869a-40aa1dee35c7/page/p_5r58u8i54c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 
 Relatório criado com o objetivo de auxiliar a direção/coordenação do EM na análise dos dados coletados da pesquisa quantitativa (pesquisa que a coordenação faz com os alunos sobre os professores/diretores e clima escolar). Como foi fornecido apenas uma base da época dessa pesquisa, o relatório não possui todas as informações.
@@ -462,9 +462,14 @@ Possui as respostas referentes aos coordenadores. Também tem a informação do 
 Nesta página, temos os resultados das demais perguntas que não se enquadram nas perguntas das demais páginas.
 
 ## [EM - Pesquisa Quantitativa Plantões](https://lookerstudio.google.com/reporting/f583ac4d-fc0c-4029-a71f-e3140668df38/page/p_0d9zjanwad)
+
+<iframe width="800" height="450" src="https://lookerstudio.google.com/embed/reporting/f583ac4d-fc0c-4029-a71f-e3140668df38/page/p_0d9zjanwad" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 Relatório criado com o objetivo de auxiliar a direção/coordenação do EM na análise dos dados coletados da pesquisa quantitativa (pesquisa que a coordenação faz com os alunos sobre os professores/diretores e clima escolar). Como foi fornecido apenas uma base da época dessa pesquisa, o relatório não possui todas as informações.
 
 ## [EM.EP03 - Controle de Instrumentos Avaliativos](https://lookerstudio.google.com/reporting/750ae956-4e04-4d48-a41c-0d9905f41c5a/page/p_gpnxuc434c)
+
+<iframe width="800" height="450" src="https://lookerstudio.google.com/embed/reporting/750ae956-4e04-4d48-a41c-0d9905f41c5a/page/p_gpnxuc434c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 Desenvolvido com o objetivo de acompanhar a publicação dos instrumentos avaliativos.
 
@@ -476,6 +481,8 @@ Contém um gráfico de coluna e uma tabela informativa que mostra a soma dos pes
 
 ## [EF.Int.EP03 - Controle de Instrumentos Avaliativos](https://lookerstudio.google.com/reporting/df6989fe-2432-42cf-9035-9f3609acfb1f/page/p_gpnxuc434c)
 
+<iframe width="800" height="450" src="https://lookerstudio.google.com/embed/reporting/df6989fe-2432-42cf-9035-9f3609acfb1f/page/p_gpnxuc434c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 Desenvolvido com o objetivo de acompanhar a publicação dos instrumentos avaliativos.
 
 ### Fechamento de Provas
@@ -485,9 +492,15 @@ Contém uma tabela informativa com os instrumentos avaliativos, seu peso, perío
 Contém um gráfico de coluna e uma tabela informativa que mostra a soma dos pesos por série, disciplina e turma. Esses pesos devem somar 100 no semestre.
 
 ## [Origem de Inscrições](https://lookerstudio.google.com/reporting/7873623d-aaa0-494b-9706-5a69573bc728/page/p_5r58u8i54c)
+
+<iframe width="800" height="820" src="https://lookerstudio.google.com/embed/reporting/7873623d-aaa0-494b-9706-5a69573bc728/page/p_5r58u8i54c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 Relatório criado com o objetivo de fornecer os dados de evolução de inscrições para o departamento de mídia (Ori Midia) e medir o impacto das ações/publicidade.
 
 ## [EM.EP04 - Escolhas de Eletivas](https://lookerstudio.google.com/reporting/0a61fc00-8301-4a96-95e0-ca8876b6c667/page/p_p1z0nkpj5c)
+
+<iframe width="800" height="450" src="https://lookerstudio.google.com/embed/reporting/0a61fc00-8301-4a96-95e0-ca8876b6c667/page/p_p1z0nkpj5c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 Relatório desenvolvido para auxiliar a coordenação do Ensino Médio na análise das escolhas de eletivas.
 
 ### Escolhas de Eletivas por Interdisciplinar
@@ -503,12 +516,21 @@ Nesta página, encontramos um diagrama de Sankey e uma tabela informando as migr
 Nesta página, dois diagramas de Sankey são apresentados para comparar as interdisciplinares e eletivas dos anos de 2022 e 2023.
 
 ## [Ranking de Alunos](https://lookerstudio.google.com/reporting/9da73b21-eb52-4938-8577-1eba0bbedee6/page/p_y8425om23c)
+
+<iframe width="800" height="600" src="https://lookerstudio.google.com/embed/reporting/9da73b21-eb52-4938-8577-1eba0bbedee6/page/p_y8425om23c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 Relatório criado com o objetivo de ranquear os alunos do Ensino Médio por áreas: Ciências Exatas, Ciências Biológicas e Humanas.
 
 ## [Evasão EM](https://lookerstudio.google.com/reporting/636c26dd-0d2b-4f40-b60e-55814d2a4431/page/p_gpnxuc434c)
+
+<iframe width="600" height="338" src="https://lookerstudio.google.com/embed/reporting/636c26dd-0d2b-4f40-b60e-55814d2a4431/page/p_gpnxuc434c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 Este relatório contém informações sobre as evasões de alunos por ciclo (Parcial, Médio e Integral) nos anos de 2022 e 2023. Também inclui uma tabela com informações de Ano Letivo, RA, Aluno, Origem do Aluno (Ciclo), Série da Evasão e Data da Evasão.
 
 ## [Pesquisa Étnico Racial](https://lookerstudio.google.com/reporting/9db668c9-3c61-447c-b0e6-60d0ccc3cdef/page/p_5r58u8i54c)
+
+<iframe width="800" height="2050" src="https://lookerstudio.google.com/embed/reporting/9db668c9-3c61-447c-b0e6-60d0ccc3cdef/page/p_5r58u8i54c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
 Relatório elaborado a partir dos dados da pesquisa realizada em 2023 sobre temas como orientação sexual/gênero, deficiência, relacionamento, relacionamento com/cheﬁa, temas de D&I, cargos de liderança, mobilidade x práticas discriminatórias, respeito, valores/propostas, idioma, etarismo, LGBTQI+fobia, etnia/raça e questões discursivas.
 
 
