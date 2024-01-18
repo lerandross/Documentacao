@@ -6,7 +6,7 @@
 
 **Quadro de Recuperação por Nota**
 > Este quadro apresenta a quantidade de alunos em recuperação, permitindo filtros por série, turma, disciplina e aluno-RA. Também possibilita agrupar os alunos por disciplina, visualizando a quantidade de disciplinas em que cada aluno está em recuperação.
-![Texto alternativo](img/1.png)
+<iframe width="600" height="338" src="https://lookerstudio.google.com/embed/reporting/86fec3d8-9b97-4ebf-8513-165e41b3fcd6/page/p_gpnxuc434c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
  **Resultados de Recuperação**
   > Nesta seção, são exibidas as notas de recuperação dos alunos, incluindo informações como ano letivo, RA, aluno, série, tipo de turma, disciplina, turma, status, média pré-recuperação e média pós recuperação.
