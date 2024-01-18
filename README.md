@@ -447,7 +447,9 @@ Nesta página, é possível analisar de forma gráfica os percentuais de respost
 ### Espanhol
 Nesta página, é possível analisar de forma gráfica os percentuais de respostas para cada pergunta no contexto de espanhol, além de ser possível analisar o índice individualmente por pergunta e professor.
 
-### $$ Índice =  P_{sempre} + \left( \frac{P_{MuitasVezes}}{2} \right) - \left( \frac{P_{PoucasVezes}}{2} \right) - P_{Nunca} $$
+$$ 
+Índice =  P_{sempre} + \left( \frac{P_{MuitasVezes}}{2} \right) - \left( \frac{P_{PoucasVezes}}{2} \right) - P_{Nunca} 
+$$
 Sendo **P** o percentual de cada tipo de resposta.
 
 ### Plantões
