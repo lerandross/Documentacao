@@ -114,6 +114,9 @@ Explore uma visão abrangente das inscrições ao longo dos anos, iniciando em 2
 ### Funil de Ingresso
 Esta seção contém dois funis: o primeiro mostra a quantidade de candidatos em cada etapa, enquanto o segundo indica quantos candidatos passaram por cada uma das cinco etapas: Inscrição, Reunião, Manifestação, Pré-matrícula e Matriculado.
 
+### Funil de Ingresso - Rubeus
+Esta seção contém detalhes sobre o fluxo de ingresso do Rubeus. As informações são extraídas diretamente do Rubeus e, portanto, não são atualizadas constantemente, a data de atualização corresponde a data de extração do arquivo.
+
 ### Evolução de Inscrições
 Encontre três gráficos temporais, destacando as inscrições acumuladas ao longo dos dias do processo, as inscrições diárias e o total de inscrições durante o período.
 
