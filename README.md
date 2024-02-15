@@ -537,3 +537,10 @@ Este relatório contém informações sobre as evasões de alunos por ciclo (Par
 Relatório elaborado a partir dos dados da pesquisa realizada em 2023 sobre temas como orientação sexual/gênero, deficiência, relacionamento, relacionamento com/cheﬁa, temas de D&I, cargos de liderança, mobilidade x práticas discriminatórias, respeito, valores/propostas, idioma, etarismo, LGBTQI+fobia, etnia/raça e questões discursivas.
 
 
+
+
+## [Percepção de Operações](https://lookerstudio.google.com/reporting/c3bd898d-88b0-4c55-b323-38f41e698efe/page/UFJqD)
+
+<iframe width="800" height="450" src="https://lookerstudio.google.com/embed/reporting/c3bd898d-88b0-4c55-b323-38f41e698efe/page/UFJqD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
+Relatório elaborado com base nos dados da pesquisa de percepção sobre os serviços prestados pela operação, sob a perspectiva do setor pedagógico. Foi realizado uma análise comparativa em relação ao ano anterior, visando avaliar eventuais melhorias, além de atribuir uma nota geral aos serviços. No último gráfico, é possível analisar perguntas específicas utilizando o filtro 'Pergunta'.
