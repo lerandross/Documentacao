@@ -403,6 +403,9 @@ Permite ter informações sobre carimbos, como a quantidade de vezes que um cari
 ### Provas Corrigidas
 Apresenta a quantidade de provas, quantidade de questões e a quantidade de carimbos atribuídos. Também é possível ver a média de carimbos por prova em um gráfico de barras.
 
+### Questões
+Apresenta um gráfico de desempenho que permite analisar a performance de cada aluno e da turma por questão, além de possibilitar a avaliação isolada do desempenho de cada questão.
+
 ## [EM.EF01.prof - Relatório sobre Alunos](https://lookerstudio.google.com/reporting/2ffe1824-660e-4f4c-8afd-9e572ce1847d/page/p_zidxh0nj8c)
 
 <iframe width="800" height="450" src="https://lookerstudio.google.com/embed/reporting/2ffe1824-660e-4f4c-8afd-9e572ce1847d/page/p_zidxh0nj8c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
@@ -544,3 +547,11 @@ Relatório elaborado a partir dos dados da pesquisa realizada em 2023 sobre tema
 <iframe width="800" height="450" src="https://lookerstudio.google.com/embed/reporting/c3bd898d-88b0-4c55-b323-38f41e698efe/page/UFJqD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 Relatório elaborado com base nos dados da pesquisa de percepção sobre os serviços prestados pela operação, sob a perspectiva do setor pedagógico. Foi realizado uma análise comparativa em relação ao ano anterior, visando avaliar eventuais melhorias, além de atribuir uma nota geral aos serviços. No último gráfico, é possível analisar perguntas específicas utilizando o filtro 'Pergunta'.
+
+
+
+## [EM - ENEM](https://lookerstudio.google.com/reporting/66b97674-ad22-48c8-b71a-39d0e4f5fa16/page/p_5r58u8i54c)
+
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/66b97674-ad22-48c8-b71a-39d0e4f5fa16/page/p_5r58u8i54c" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+
+Relatório desenvolvido para analisar a avaliação dos professores em relação às questões aplicadas no ENEM de 2023. Neste documento, é possível avaliar a dificuldade das questões por área do conhecimento, disciplina e a série em que a questão poderia ser abordada em sala de aula, segundo a avaliação dos professores.
