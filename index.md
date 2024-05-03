@@ -1,5 +1,5 @@
 ---
-layout: default
+
 ---
 
 # Bem-vindo à Documentação dos Relatórios
