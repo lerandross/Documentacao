@@ -1,7 +1,3 @@
----
-
----
-
 # Bem-vindo à Documentação dos Relatórios
 
 Aqui você encontrará todos os relatórios importantes organizados e acessíveis. Selecione qualquer um dos relatórios abaixo para ver detalhes específicos e análises.
