@@ -65,8 +65,7 @@ $$  \text{NPS} = (\text{Porcentagem de Promotores} - \text{Porcentagem de Detrat
 ## 4. Score por Ciclo
 - Avaliação categorizada por "Muito Bom", "Bom", "Regular", "Ruim" e "Muito Ruim" para cada ciclo educacional.
  - A fórmula do Score é:
-  $$
-  Score = \text{Muito Bom} + \left(\frac{\text{Bom}}{2}\right) - \left(\frac{\text{Ruim}}{2}\right) - \text{Muito Ruim}
+  $$ \text{Score} = \text{Muito Bom} + \left(\frac{\text{Bom}}{2}\right) - \left(\frac{\text{Ruim}}{2}\right) - \text{Muito Ruim}
   $$
  
 
@@ -74,8 +73,7 @@ $$  \text{NPS} = (\text{Porcentagem de Promotores} - \text{Porcentagem de Detrat
 - Análise detalhada das respostas para cada pergunta, categorizadas de "Muito Bom" a "Muito Ruim".
 - Inclui aspectos como "Qualidade do ensino" e "Infraestrutura".
 - A fórmula do Score é:
-  $$
-  Score = \text{Muito Bom} + \left(\frac{\text{Bom}}{2}\right) - \left(\frac{\text{Ruim}}{2}\right) - \text{Muito Ruim}
+  $$ \text{Score} = \text{Muito Bom} + \left(\frac{\text{Bom}}{2}\right) - \left(\frac{\text{Ruim}}{2}\right) - \text{Muito Ruim}
   $$
 
 ## 6. Perguntas Específicas por Ciclo
